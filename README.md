@@ -1,1 +1,1 @@
-# -AcWing
+# AcWing
